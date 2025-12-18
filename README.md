@@ -1,4 +1,3 @@
 # odin-recipes
-#1 web dev project
 Project : RECIPES
-after learning HTML 
+the images and content used in this project is for educational purpose only and belong to their respective owners
